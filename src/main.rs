@@ -9,11 +9,11 @@ fn main() {
 
     let summary = RandomRamble::new()
         .with_template("{{ intro | rr }}\n{{ desc | rr }}")
-        .with_others(
+        .with_rambles(
             "intro",
             vec!["Stop right there, criminal scum!", "<snarky remark here>"],
         )
-        .with_others(
+        .with_rambles(
             "desc",
             vec![
                 "Get up! Lazy <noun>",
@@ -31,7 +31,7 @@ fn main() {
 
     let btn_txt = RandomRamble::new()
         .with_template("{{ btn | rr }}")
-        .with_others(
+        .with_rambles(
             "btn",
             vec![
                 "Feck off",
