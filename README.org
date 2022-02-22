@@ -1,0 +1,4 @@
+#+TITLE: Readme
+
+** I wrote (badly) about it
+[[https://daftdaf.dev/posts/how-to-avoid-tendinitis/][How to avoid tendinitis]]
