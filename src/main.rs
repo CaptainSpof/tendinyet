@@ -36,10 +36,12 @@ fn main() {
             vec![
                 "Feck off",
                 "Leave me alone!",
+                "STFU",
                 "Honey, I'm not in the mood.",
                 "SNOOZE!!!!",
                 "OMG, I don't care",
                 "Shh, only dreams now…",
+                "Help, I'm being repressed!",
             ],
         )
         .build()
